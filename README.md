@@ -1,2 +1,2 @@
-# unitConverterProject
-uses Python and tkinter to create a GUI for unit conversion
+# BreadcrumbsqrCodeGeneratorProject
+uses Python and qrcode that creates a qr code for desired url
